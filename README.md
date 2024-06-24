@@ -5,7 +5,6 @@
     - Computer Vision
     - iOS app development
     - machine learning
-    - leetcode
 - 📫 How to reach me **devon.chan0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
