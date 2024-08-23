@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, <br> I'm Devon Chan</h2>
 <h3 align="center">A passionate software developer</h3>
 
-- 📫 Contact me: **devon.chan0@gmail.com**
+📫 Contact me: **devon.chan0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
